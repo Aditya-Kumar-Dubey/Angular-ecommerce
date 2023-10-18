@@ -1,0 +1,134 @@
+{
+  "seller": [
+    {
+      "name": "Aditya Dubey",
+      "email": "aditya@mailinaton.com",
+      "password": "abc@123",
+      "id": 1
+    },
+    {
+      "name": "Aman",
+      "password": "Aman@123",
+      "email": "aman@mailinator.com",
+      "id": 2
+    },
+    {
+      "name": "Tony",
+      "password": "Tony@123",
+      "email": "tony@123",
+      "id": 3
+    },
+    {
+      "name": "Peter",
+      "password": "peter@123",
+      "email": "peter@mailinator.com",
+      "id": 4
+    },
+    {
+      "name": "Bruce",
+      "password": "bruce@123",
+      "email": "bruce@mailinator.com",
+      "id": 5
+    },
+    {
+      "name": "Durgesh",
+      "password": "Abc@123",
+      "email": "durgesh@mailinator.com",
+      "id": 6
+    },
+    {
+      "name": "alenea",
+      "password": "abc@123",
+      "email": "alenea@mailinator.com",
+      "id": 7
+    },
+    {
+      "name": "anil",
+      "password": "abc@123",
+      "email": "anil@mailinator.com",
+      "id": 8
+    },
+    {
+      "name": "Anant",
+      "password": "anant@123",
+      "email": "anant@mailinator.com",
+      "id": 9
+    },
+    {
+      "name": "Moni",
+      "password": "moni@123",
+      "email": "moni@mailinator.com",
+      "id": 10
+    },
+    {
+      "name": "Aman Singh",
+      "password": "Aman@123",
+      "email": "aman@mailinator.com",
+      "id": 11
+    },
+    {
+      "name": "Mahesh Mishra",
+      "email": "mahesh@mailinaton.com",
+      "password": "mahesh@123",
+      "id": 12
+    },
+    {
+      "name": "Tony",
+      "password": "LKJlsdkld",
+      "email": "lkfdslksd@gmail.com",
+      "id": 13
+    },
+    {
+      "email": "fsef",
+      "password": "eewr",
+      "id": 14
+    }
+  ],
+  "products": [
+    {
+      "name": "Sumsung",
+      "price": "999999",
+      "color": "White",
+      "category": "Mobiles",
+      "discription": "For Middle Class Users",
+      "image": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/iphone-15-finish-select-202309-6-1inch-black?wid=2560&hei=1440&fmt=p-jpg&qlt=80&.v=1692923777911",
+      "id": 2
+    },
+    {
+      "name": "HP",
+      "price": "192929",
+      "color": "Silver",
+      "category": "laptop",
+      "discription": "good",
+      "image": "https://m.media-amazon.com/images/I/51qVDwRm72L._SL1253_.jpg",
+      "id": 3
+    },
+    {
+      "name": "Sumsung",
+      "price": "phone",
+      "color": "blue",
+      "category": "mobile",
+      "discription": "kjlfkdf",
+      "image": "https://img.freepik.com/free-photo/front-view-hand-holding-smartphone_23-2148775905.jpg?w=360&t=st=1697477622~exp=1697478222~hmac=915e3088ddf23c66befeeb83a7c022d38288815cfb021f94ada6b79521840802",
+      "id": 4
+    },
+    {
+      "name": "HP",
+      "price": "5656656565",
+      "color": "silver",
+      "category": "lappi",
+      "discription": "good",
+      "image": "https://img.freepik.com/free-photo/hand-holding-virtual-reality-headset_23-2148775909.jpg?w=360&t=st=1697477697~exp=1697478297~hmac=322d7f49266ad6dc692a0d55031797c760b2c604fe92a8143017d74cc5c1e8ed",
+      "id": 5
+    },
+    {
+      "name": "Apple",
+      "price": "985493934",
+      "color": "gold",
+      "category": "laptop",
+      "discription": "kjdklsd",
+      "image": "https://images.unsplash.com/photo-1611186871348-b1ce696e52c9?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
+      "id": 6
+    }
+  ]
+}
